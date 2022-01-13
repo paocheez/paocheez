@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 Also i'm learning **React**
 
 - 👨‍💻 All of my projects are available at [https://paocheez.github.io/](https://paocheez.github.io/)
 
