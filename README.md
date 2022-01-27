@@ -5,7 +5,7 @@
 
 - 🌱 Also i'm learning **React**
 
-- 👨‍💻 All of my projects are available here: https://93gbk.csb.app/
+- 👨‍💻 All of my projects are available here: https://paocheez.github.io/
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karla-paola-conde-hernandez/](https://www.linkedin.com/in/karla-paola-conde-hernandez/)
 
