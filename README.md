@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Paola Conde</h1>
-<h3 align="center">A passionate frontend developer from Mexico City</h3>
-![icon-comp](https://user-images.githubusercontent.com/77820313/152231208-060defe9-e9eb-49f3-b8c7-7f70ad78c6ee.png)
+<h1 align="center">Hi, welcome to my github!:rocket:</h1>
+<h2 align="center">My name is Paola Conde, I'm a passionate frontend developer:woman_technologist:</h2> 
+<p align="center">Here you can find some of the proyects i've been working on, feel free to reach me if you have any questions/suggestions.</p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/paocheez/ImageSourcePijamars/master/assets/icon-comp.png" alt="paocheez" height="180" width="200" /> 
+</p>
+<h3 align="center">:blossom:Happy coding!:blossom:</h3>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- I'm currently learning React :atom_symbol:
 
-- 🌱 Also i'm learning **React**
+- You can find my personal portfolio here: https://paocheez.github.io/main-site/
 
-- 👨‍💻 All of my projects are available here: https://paocheez.github.io/main-site/
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/karla-paola-conde-hernandez/](https://www.linkedin.com/in/karla-paola-conde-hernandez/)
+- To find more about my job experiences check here: [https://www.linkedin.com/in/karla-paola-conde-hernandez/](https://www.linkedin.com/in/karla-paola-conde-hernandez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
