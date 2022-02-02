@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paola Conde</h1>
 <h3 align="center">A passionate frontend developer from Mexico City</h3>
+![icon-comp](https://user-images.githubusercontent.com/77820313/152231208-060defe9-e9eb-49f3-b8c7-7f70ad78c6ee.png)
 
 - 🔭 I’m currently working on **my personal portfolio**
 
